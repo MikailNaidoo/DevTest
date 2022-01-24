@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ap1NbURCGqY+K3Tq3g/4eRdASKG1ue1R4Lw0TgeMe71hxvZr+XCLmsjF9qJslzn3ZK3CuvsSsthq23Eq04/1Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikail Naidoo\\source\\repos\\QFIApp\\QFIApp\\QFIApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikail Naidoo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mikail Naidoo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mikail Naidoo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mikail Naidoo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mikail Naidoo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mikail Naidoo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
